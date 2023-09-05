@@ -1,2 +1,0 @@
-# Sales_Insights_Data_Analysis_ProjectTableau_Project
-Tableau Visualisation for Sales Analysis
